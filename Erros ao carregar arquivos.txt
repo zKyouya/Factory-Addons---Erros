@@ -1,0 +1,200 @@
+[Commands][warning]-Function set_industrial_1_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_n_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:industrial_mat1_n": inesperado em "block ~~~ »factory:industrial_mat1_n« ["directi"'
+
+[Commands][warning]-Function set_industrial_1_n_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_n_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_n_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_s_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:industrial_mat1_s": inesperado em "block ~~~ »factory:industrial_mat1_s« ["directi"'
+
+[Commands][warning]-Function set_industrial_1_s_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_s_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_1_s_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_industrial_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:magnetic_collector": inesperado em "block ~~~ »factory:magnetic_collector« ["directi"'
+
+[Commands][warning]-Function set_magnetic_collector_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_2_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:magnetic_collector_2": inesperado em "block ~~~ »factory:magnetic_collector_2« ["directi"'
+
+[Commands][warning]-Function set_magnetic_collector_2_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_2_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_2_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_3_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:magnetic_collector_3": inesperado em "block ~~~ »factory:magnetic_collector_3« ["directi"'
+
+[Commands][warning]-Function set_magnetic_collector_3_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_3_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_3_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_4_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:magnetic_collector_4": inesperado em "block ~~~ »factory:magnetic_collector_4« ["directi"'
+
+[Commands][warning]-Function set_magnetic_collector_4_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_4_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_4_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_5_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:magnetic_collector_5": inesperado em "block ~~~ »factory:magnetic_collector_5« ["directi"'
+
+[Commands][warning]-Function set_magnetic_collector_5_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_5_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_magnetic_collector_5_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:mini_ejector": inesperado em "block ~~~ »factory:mini_ejector« ["directi"'
+
+[Commands][warning]-Function set_mini_ejector_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_2_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:mini_ejector_2": inesperado em "block ~~~ »factory:mini_ejector_2« ["directi"'
+
+[Commands][warning]-Function set_mini_ejector_2_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_2_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_2_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_3_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:mini_ejector_3": inesperado em "block ~~~ »factory:mini_ejector_3« ["directi"'
+
+[Commands][warning]-Function set_mini_ejector_3_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_3_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_3_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_4_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:mini_ejector_4": inesperado em "block ~~~ »factory:mini_ejector_4« ["directi"'
+
+[Commands][warning]-Function set_mini_ejector_4_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_4_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_5_1 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:mini_ejector_5": inesperado em "block ~~~ »factory:mini_ejector_5« ["directi"'
+
+[Commands][warning]-Function set_mini_ejector_5_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_multiplier_box_on_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:multiplier_box_on": inesperado em "block ~~~ »factory:multiplier_box_on« ["directi"'
+
+[Commands][warning]-Function set_multiplier_box_on_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_on_3 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:transmission_box_on": inesperado em "block ~~~ »factory:transmission_box_on« ["directi"'
+
+[Commands][warning]-Function set_water_wheel_1 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:water_wheel": inesperado em "block ~~~ »factory:water_wheel« ["directi"'
+
+[Commands][warning]-Function set_mini_ejector_4_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_5_0 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_multiplier_box_0 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:multiplier_box": inesperado em "block ~~~ »factory:multiplier_box« ["directi"'
+
+[Commands][warning]-Function set_multiplier_box_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_3 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:transmission_box": inesperado em "block ~~~ »factory:transmission_box« ["directi"'
+
+[Commands][warning]-Function set_transmission_box_des_2 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:transmission_box_des": inesperado em "block ~~~ »factory:transmission_box_des« ["directi"'
+
+[Commands][warning]-Function set_transmission_box_des_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_on_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_on_2 failed to load correctly with error(s):
+
+[Commands][warning]-Error on line 1: command failed to parse with error 'Erro de sintaxe: "factory:water_wheel_on": inesperado em "block ~~~ »factory:water_wheel_on« ["directi"'
+
+[Commands][warning]-Function set_multiplier_box_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_multiplier_box_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_multiplier_box_on_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_2 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_des_0 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_on_0 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_on_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_mini_ejector_5_3 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_multiplier_box_on_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_0 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_transmission_box_des_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_0 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_on_0 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_on_1 failed to load correctly with error(s):
+
+[Commands][warning]-Function set_water_wheel_on_3 failed to load correctly with error(s):
+
+[Blocks][error]-Geometry file `geometry.block` doesn't exist
+
